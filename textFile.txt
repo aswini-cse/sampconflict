@@ -1,2 +1,2 @@
-simple text file
-city :none
+simple text file1
+city :chennai
