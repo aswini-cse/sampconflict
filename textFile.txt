@@ -1,2 +1,2 @@
-simple text file
+simple text file2
 city : trichy
