@@ -1,2 +1,2 @@
-simple text file
+simple text file1
 city :chennai
